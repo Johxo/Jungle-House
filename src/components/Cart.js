@@ -1,4 +1,4 @@
-import '/Users/JOHN/Documents/Code/Cours/OpenClassrooms/REACT/jungle-house/src/styles/Cart.css'
+import '../styles/Cart.css'
 
 function Cart() {
 	const monsteraPrice = 8
